@@ -1,5 +1,5 @@
 .bg{
-    background-image: url('assert/galaxy.jpg');
+    background-image: url('galaxy.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     
@@ -24,7 +24,7 @@
        left: 40px;
    }
    body {
-       background: url(image/galaxy.jpg);
+       background: url(galaxy.jpg);
    }
    h1{
        color: aliceblue;
