@@ -1,0 +1,29 @@
+.form{
+    margin-left: 350px;
+    padding: 30px;
+    height: 900px;
+    width: 600px;
+ 
+  
+    border: 1px solid rgb(255, 255, 255);
+    .fifa{
+        position: relative;
+        left: 20px;
+
+    }
+
+
+}
+
+body{   background: url(bg2.jpg);
+    background-size: cover;
+    color: white;
+}
+.fifo{
+    position:relative;
+    left: 100px;
+}
+.rain {
+    width: 20px;
+    height: 20px;
+}
